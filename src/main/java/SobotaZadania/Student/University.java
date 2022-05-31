@@ -1,9 +1,10 @@
-package SobotaZadania;
+package SobotaZadania.Student;
+
+import SobotaZadania.Student.Student;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
-import java.util.Scanner;
 
 public class University {
 

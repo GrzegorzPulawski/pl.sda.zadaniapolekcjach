@@ -10,8 +10,9 @@ public class KoszykZakupowy {
         this.podatek = podatek;
     }
 
+
     public double cenaBrutto() {
-            return cena + (cena * podatek.getWartoscPodatku());
+        return cenaBrutto();
         }
 
         public PodatekProduktu getPodatek() {

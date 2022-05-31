@@ -1,4 +1,4 @@
-package SobotaZadania;
+package SobotaZadania.Student;
 
 public class Student {
     private long numerindeksu;
