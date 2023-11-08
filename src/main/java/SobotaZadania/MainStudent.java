@@ -1,6 +1,6 @@
 package SobotaZadania;
 
-import SobotaZadania.Student.Student;
+import Dziennik2.Student;
 
 import java.util.*;
 

@@ -1,7 +1,4 @@
-package SobotaZadania.Student;
-
-import SobotaZadania.Student.Student;
-import SobotaZadania.Student.University;
+package Dziennik2;
 
 import java.util.Optional;
 import java.util.Scanner;

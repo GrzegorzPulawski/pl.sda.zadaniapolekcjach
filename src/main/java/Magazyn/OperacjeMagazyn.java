@@ -1,7 +1,5 @@
 package Magazyn;
 
-import SobotaZadania.Student.Student;
-
 import java.util.LinkedList;
 import java.util.List;
 

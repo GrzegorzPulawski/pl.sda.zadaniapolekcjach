@@ -1,4 +1,4 @@
-package SobotaZadania.Student;
+package Dziennik2;
 
 public class Student {
     private long numerindeksu;

@@ -1,4 +1,6 @@
-package SobotaZadania;
+package Zakupy;
+
+import SobotaZadania.ParaLiczb;
 
 import java.util.HashSet;
 import java.util.Set;

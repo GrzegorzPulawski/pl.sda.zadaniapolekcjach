@@ -1,6 +1,4 @@
-package SobotaZadania.Student;
-
-import SobotaZadania.Student.Student;
+package Dziennik2;
 
 import java.util.HashMap;
 import java.util.Map;
