@@ -7,6 +7,7 @@ public class MainDziennik {
 
         Dziennik dziennik = new Dziennik();
         dziennik.dodajStudenta("123456", "Pawel","Gawel");
+        dziennik.dodajStudenta("88888","Jarek", "Lesicki");
         dziennik.wypiszListeStudentow();
         dziennik.usunStudenta("123456");
         dziennik.usunStudenta("666666");
@@ -14,7 +15,7 @@ public class MainDziennik {
         Optional<Student> optionalStudent = dziennik.zwrocStudenta("88888");
         if (optionalStudent.isPresent()){
             Student student = optionalStudent.get();
-            System.out.println("Imie i nazwisko"+ student.getImie() +" " + student.getNazwisko());
+            System.out.println("Imie i nazwisko "+ student.getImie() +" " + student.getNazwisko());
         }
     }
 

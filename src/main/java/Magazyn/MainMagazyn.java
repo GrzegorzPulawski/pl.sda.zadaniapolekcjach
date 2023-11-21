@@ -26,6 +26,9 @@ public class MainMagazyn {
             if (komenda.equalsIgnoreCase("dodaj")) {
                 System.out.println("Podaj nazwe produktu:");
                 String nazwa = scanner.next();
+                
+                System.out.println("Podaj ilosc: ");
+                ilosc = scanner.nextDouble();
 
                 System.out.println("Podaj jakiej jednostki uzyc?: gramy, sztuki, litry:");
                 wybor = scanner.next();
